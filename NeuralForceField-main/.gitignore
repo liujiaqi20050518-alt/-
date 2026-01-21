@@ -9,6 +9,3 @@ __pycache__/
 # export data
 **/exps*/
 
-# dataset and checkpoints
-checkpoints/
-data/
